@@ -27,5 +27,5 @@ namespace WcfTempService
             }
             return composite;
         }
-    }
+    } 
 }
